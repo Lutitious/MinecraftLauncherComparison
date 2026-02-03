@@ -1,7 +1,7 @@
 ﻿{
   "identifier": "com.gdevs.gdlauncher-carbon",
   "name": "GDLauncher Carbon",
-  "icon": "/images/gd-carbon.svg",
+  "icon": "https://raw.githubusercontent.com/Lutitious/MinecraftLauncherComparison/refs/heads/react-rewrite/images/gd-carbon.svg",
   "downloadLink": "https://gdlauncher.com/en/download/",
   "sourceRepo": "https://github.com/gorilla-devs/GDLauncher-Carbon",
   "homepage": "https://gdlauncher.com/",

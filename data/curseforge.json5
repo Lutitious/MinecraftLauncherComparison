@@ -1,7 +1,7 @@
 ﻿{
   "identifier": "com.CurseForge.CurseForge",
   "name": "CurseForge App",
-  "icon": "/images/curseforge.svg",
+  "icon": "https://raw.githubusercontent.com/Lutitious/MinecraftLauncherComparison/refs/heads/react-rewrite/images/curseforge.svg",
   "downloadLink": "https://download.curseforge.com/",
   "sourceRepo": "",
   "homepage": "https://www.curseforge.com/minecraft",
